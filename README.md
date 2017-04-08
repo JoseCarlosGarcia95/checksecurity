@@ -1,6 +1,6 @@
 # checksecurity
-Searchsploit framework
-
+ Searchsploit level generator 
+ 
 ## Install first searchsploit
 [Install tutorial](https://www.exploit-db.com/searchsploit/)
 
